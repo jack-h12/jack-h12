@@ -1,13 +1,13 @@
 # Hi, I'm Jack 👋
 
-💻 I'm a student at the University of Auckland, majoring in Computer Science and Biological Sciences. I'm interested in full-stack development, and building systems at the intersection of software, AI, and biotech
-🚀 Interested in high-impact products, real users, and scalable architectures
+I'm a student at the University of Auckland, majoring in Computer Science and Biological Sciences. I'm interested in full-stack development, and building systems at the intersection of software, AI, and biotech
+Interested in high-impact products, real users, and scalable architectures
 
 ---
 
-## 🚀 Some Projects I've Built
+## Some Projects I've Built
 
-### 🧠 Team3D Tracker
+### Team3D Tracker
 
 **Gamified productivity + fitness platform**
 
@@ -18,7 +18,7 @@
 
 ---
 
-### 🌌 StarGaze (🏆 Hackathon Winner)
+### StarGaze (🏆 Hackathon Winner)
 
 **Interactive stargazing planner & planetarium**
 
@@ -29,7 +29,7 @@
 
 ---
 
-### 🤝 Charity Platform (WDCC)
+### Hidden Treasure Charity Website (WDCC project)
 
 **Production web app for real stakeholders**
 
@@ -55,14 +55,14 @@ Git, Vercel, VS Code
 
 ---
 
-## 🎓 Education
+## Education
 
 BSc Computer Science & Biological Sciences — University of Auckland
 GPA: 8.75/9 (First in Course — COMPSCI 130)
 
 ---
 
-## 🎯 Current Goals
+## Current Goals
 
 * Land a **Software Engineering Internship**
 * Go deeper into **AI + biotech**
@@ -70,7 +70,7 @@ GPA: 8.75/9 (First in Course — COMPSCI 130)
 
 ---
 
-## 📫 Contact
+## Contact
 
 * Email: [jackharken1@gmail.com](mailto:jackharken1@gmail.com)
 * LinkedIn: https://www.linkedin.com/in/jack-harken12/
